@@ -8,13 +8,13 @@ This ECE 2390 team project uses a webcam to locate a player's hands and detect c
 
 ## Team demo
 
-[![Two-hand landmark tracking with selective background blur](hand-tracking-preview.png)](hand-tracking-demo.mp4)
+[![Two-hand landmark tracking with selective background blur](hand-tracking-preview.png)](https://github.com/Haozhe-peter/gesture-recognition-portfolio/raw/refs/heads/main/hand-tracking-demo.mp4)
 
-[Watch or download the 25.5-second recording](hand-tracking-demo.mp4)
+[Open the 25.5-second demo (MP4)](https://github.com/Haozhe-peter/gesture-recognition-portfolio/raw/refs/heads/main/hand-tracking-demo.mp4)
 
 The preview shows two-hand landmark tracking and selective background blur in the team's application. It illustrates the vision features, not a collision-detection benchmark or my individual authorship of the full system.
 
-**How to view:** click the preview or video link above. No installation or repository access is needed to view the public recording. If GitHub does not play the file in your browser, use its download button and open the MP4 locally. This is a recorded demonstration, not a hosted interactive application.
+**How to view:** click the preview or video link above to open the MP4 directly. Your browser may play it or download it; if downloaded, open it with your usual video player. No GitHub sign-in or project installation is required. This is a recorded demonstration, not a hosted interactive application.
 
 ## My contributions
 
